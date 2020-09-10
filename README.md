@@ -1,6 +1,8 @@
 What is Notepad++ ?
 ===================
 
+This is my note
+
 [![GitHub release](https://img.shields.io/github/release/notepad-plus-plus/notepad-plus-plus.svg)](../../releases/latest)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Appveyor build status](https://ci.appveyor.com/api/projects/status/github/notepad-plus-plus/notepad-plus-plus?branch=master&svg=true)](https://ci.appveyor.com/project/donho/notepad-plus-plus)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Join the disscussions at https://community.notepad-plus-plus.org/](https://notepad-plus-plus.org/assets/images/NppCommunityBadge.svg)](https://community.notepad-plus-plus.org/)
